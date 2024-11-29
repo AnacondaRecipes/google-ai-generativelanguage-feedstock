@@ -48,7 +48,7 @@ test:
   requires:
     - pip
     - pytest
-    - grpc
+    - grpcio
 
 about:
   home: https://github.com/googleapis/google-cloud-python/tree/main/packages/google-ai-generativelanguage
